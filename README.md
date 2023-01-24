@@ -31,6 +31,10 @@ if(x==0){
 }
 
 ```
+`if(x==0){
+	x=1;
+	set_context(&c);
+}`
 
 
 **TASK 1.2**
@@ -101,4 +105,4 @@ We implemented `yield()` in this step. When a fiber calls the `yield()` the prog
 **BUILD**
 
 Go to the sub-directory "task3"
-- Run `make` to build the program 
+- Run `make task3` to build the program 
