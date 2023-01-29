@@ -10,7 +10,7 @@ This project made by : TENGKU BINTI TENGKU (21059311)
 
 ## LINK VIDEO
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
+- [VIDEO](https://gitlab.uwe.ac.uk/tna2-bintiteng/aspassignment/-/blob/main/21039511_ASP.mp4) 
 
 
  ## TASK 1
